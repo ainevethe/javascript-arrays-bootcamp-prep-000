@@ -10,3 +10,33 @@ function destructivelyAddElementToBeginningOfArray() {
   array.unshift(beginning)
   return array
 }
+
+function addElementToEndOfArray() {
+  var newarray = [...array, newelement]
+  return newarray
+}
+
+function destructivelyAddElementToEndOfArray() {
+  
+}
+
+function accessElementInArray() {
+  
+}
+
+function destructivelyRemoveElementFromBeginningOfArray() {
+  
+}
+
+function removeElementFromBeginningOfArray() {
+  
+}
+
+function destructivelyRemoveElementFromEndOfArray() {
+  
+}
+
+function removeElementFromEndOfArray() {
+  
+}
+
